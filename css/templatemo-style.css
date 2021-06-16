@@ -113,7 +113,7 @@ p:last-child {
 
 .tm-top-bar.active .navbar-brand img {
     width: 80px;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .tm-top-bar-bg {
@@ -178,7 +178,7 @@ p:last-child {
 }
 
 .tm-banner-bg {
-    background: url(../img/banner.jpg) center top no-repeat;
+    background: url(../images/banner/bann1.jpg) center top no-repeat;
     min-height: 720px;
     position: relative;
 }
@@ -466,7 +466,7 @@ label {
 
 .tm-tab-link:hover,
 .tm-tab-link.active {
-    background: #185f8f;
+    background: #9ccff1;
 }
 
 .tab-pane {
