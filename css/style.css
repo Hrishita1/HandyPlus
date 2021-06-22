@@ -55,7 +55,9 @@ html {
 @-ms-viewport {
     width: device-width;
 }
+/* Header */
 
+header,
 article,
 aside,
 dialog,
@@ -64,7 +66,7 @@ figure,
 
 /* footer, */
 
-header,
+
 hgroup,
 main,
 nav,
@@ -9819,7 +9821,7 @@ h5,
 
 .ftco-navbar-light .navbar-nav>.nav-item .dropdown-menu {
     border: none;
-    background: #fff;
+    background: rgba(255, 255, 255, 0.925);
     -webkit-box-shadow: 0px 10px 34px -20px rgba(0, 0, 0, 0.41);
     -moz-box-shadow: 0px 10px 34px -20px rgba(0, 0, 0, 0.41);
     box-shadow: 0px 10px 34px -20px rgba(0, 0, 0, 0.41);
